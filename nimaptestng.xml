@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="C:/Users/Admin/IdeaProjects/Basicprograms1/src/test/java/basicProgram/Nimaplogin.java">
+    <test verbose="2" preserve-order="true" name="C:/Users/Admin/IdeaProjects/Basicprograms1/src/test/java/automationlogin/Nimaplogin.java">
         <classes>
-            <class name="basicProgram.Nimaplogin">
+            <class name="automationlogin.Nimaplogin">
                 <methods><include name="openapp"/>
                     <include name="testLogin"/>
                     <include name="addCustomer"/>
